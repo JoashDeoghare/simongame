@@ -1,0 +1,2 @@
+# simongame
+jquery simon game
